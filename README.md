@@ -1,5 +1,3 @@
 # Produx | پروداکس
  
-فصل اول: با یک feature شروع کنید، نه یک لی‌اوت
-
-featureهای یکسان
+[آکادمی پروداکس](https://produx.ir) | [یوتیوب پروداکس](https://youtube.com/@produx_ir) | [اینستاگرام پروداکس](http://instagram.com/produx.ir) | [تلگرام پروداکس](htttps://t.me/proddux.ir) | [کامیونیتی پروداکس](htttps://t.me/prodduxir) 
